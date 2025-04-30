@@ -10,7 +10,7 @@
 
 **`Estudante de Bacharelado de Ciências da Computação`**
 
-Chamo-me Leonardo Granero, tenho 20 anos e sou natural de Franca. Atualmente, estou cursando Ciências da Computação na FACEF. Sou apaixonado por tecnologia.
+Chamo-me Leonardo Granero, tenho 20 anos e sou natural de São Paulo. Atualmente, estou cursando Ciências da Computação na FACEF. Sou apaixonado por tecnologia.
 
 
 ---
