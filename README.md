@@ -1,3 +1,11 @@
+<p align="center">
+
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hello%20World!!&font=Fira%20Code&center=true&width=440&height=45&color=ffffff&vCenter=true&pause=1000&size=50&text-align=center;"/></a>
+</p>
+
+
+
 ## 🍏Leonardo Granero
 
 **`Estudante de Bacharelado de Ciências da Computação`**
@@ -87,9 +95,24 @@ Chamo-me Leonardo Granero, tenho 20 anos e sou natural de Franca. Atualmente, es
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Russianpro&theme=gotham&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
-<br/>
-<br/>
+---
+### 🔗 Contate-me
+- 📩 **Email:** leonardogranero@outlook.com
+- 💼 **LinkedIn:** [linkedin.com/in/leonardo-granero](https://www.linkedin.com/in/leonardo-granero-a89543260/)  
+- 💻 **GitHub:** [github.com/Russianpro](https://github.com/Russianpro)  
+
+</br>
+
 
 <!-- GIF -->
 <p align="left">
