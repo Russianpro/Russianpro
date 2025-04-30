@@ -86,3 +86,5 @@ Chamo-me Leonardo Granero, tenho 20 anos e sou natural de Franca. Atualmente, es
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Russianpro&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+
+>![download](https://github.com/user-attachments/assets/f6a60fbb-38a6-4274-8751-1154e3362e1a)
