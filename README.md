@@ -106,7 +106,7 @@ Chamo-me Leonardo Granero, tenho 20 anos e sou natural de Franca. Atualmente, es
 </br>
 
 ---
-### 🔗 Contate-me
+### 🍏 Contate-me
 - 📩 **Email:** leonardogranero@outlook.com
 - 💼 **LinkedIn:** [linkedin.com/in/leonardo-granero](https://www.linkedin.com/in/leonardo-granero-a89543260/)  
 - 💻 **GitHub:** [github.com/Russianpro](https://github.com/Russianpro)  
